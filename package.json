@@ -1,5 +1,5 @@
 {
-  "name": "phin",
+  "name": "@xuluwarrior/phin",
   "version": "3.7.0",
   "description": "The ultra-lightweight Node.js HTTP client",
   "main": "lib/phin.js",
